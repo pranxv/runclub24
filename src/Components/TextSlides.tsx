@@ -6,11 +6,11 @@ export default function TextSlides(){
             <h1 style={{position: "absolute", top:"30vh", left:"25vw"}}>
                 free
             </h1>
-            <h1 style={{position: "absolute", top:"50vh", left:"65vw"}}>
+            <h1 style={{position: "absolute", top:"40vh", left:"65vw"}}>
                 tomorrow
             </h1>
-            <h1 style={{position: "absolute", top:"60vh", left:"195vw"}}>
-                morning?
+            <h1 style={{position: "absolute", top:"50vh", left:"100vh"}}>
+            morning?
             </h1>
         </div>
     )
